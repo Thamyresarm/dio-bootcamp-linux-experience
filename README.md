@@ -64,3 +64,6 @@ Consultar grupos do sistema
 
 ### sudo
 prefixo utilizado para dar permissão de adm (caso o usuario esteja no grupo com permissão)
+
+### ./[nome do arqquivo que deseja executar.sh]
+Executa o script criado
