@@ -6,6 +6,9 @@ Repositório com os desafios do Bootcamp Linux
 ### ls 
 listar tudo do diretorio
 
+### ls -a
+listar tudo do diretorio, inclusive arquivos ocultos
+
 ### ls -l 
 listar tudo com as informações de permissões
 
