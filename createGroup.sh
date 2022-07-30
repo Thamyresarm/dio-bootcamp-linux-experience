@@ -1,1 +1,0 @@
-groupadd GRP_ADM
