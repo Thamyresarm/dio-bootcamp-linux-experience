@@ -1,4 +1,4 @@
-# curso-dio-linux-desafios
+# curso DIO Linux Desafios
 Repositório com os desafios do Bootcamp Linux
 
 ## Alguns comandos importantes para realizar o exercicio: 
