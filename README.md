@@ -41,6 +41,7 @@ cria a senha do usuário
 
 ### Podemos criar o usuário já com toda essa informação 
 useradd [nome escolhido] -m -c "comentario ou nome completo do user" -s /bin/bash -p $(openssl passwd -1 [senha desejada])
+
 Não consegui utilizar o -crypt indicado pelo professor, pesquisei e encontrei o -1 e foi assim que consegui executar o script no meu ambiente.
 
 ### su [nome de usuario]
