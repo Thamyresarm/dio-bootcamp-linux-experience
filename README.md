@@ -65,5 +65,8 @@ Consultar grupos do sistema
 ### sudo
 prefixo utilizado para dar permissão de adm (caso o usuario esteja no grupo com permissão)
 
+### cp -R * [caminho destino]
+copia todos os arquivos e diretorios de dentro do diretorio em que estar até o caminho indicado
+
 ### ./[nome do arqquivo que deseja executar.sh]
 Executa o script criado
