@@ -42,7 +42,6 @@ if ($link->query($query) === TRUE) {
 } else {
   echo "Error: " . $link->error;
 }
-
 ?>
 </body>
 </html>
