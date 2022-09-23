@@ -1,6 +1,6 @@
 # Linux Experience Desafios de Código
 
-## Repositório com os desafios do Bootcamp Linux
+Repositório com os desafios do Bootcamp Linux
 
 ![image](https://user-images.githubusercontent.com/24790794/191891058-8c44fece-d9ef-4ef0-b45e-3d4ee96616e3.png)
 
